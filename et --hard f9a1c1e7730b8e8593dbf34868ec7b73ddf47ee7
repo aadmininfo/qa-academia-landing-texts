@@ -1,0 +1,27 @@
+[33mcommit 39759c86723094d0615fe0f772cf84beb5642ea1[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: aadmininfo <lionakimov797@gmail.com>
+Date:   Sat Jul 19 14:50:22 2025 +0300
+
+    Create CNAME
+
+[33mcommit 5903afa03d9acb2870a9b0f199288a02edea66a5[m
+Author: gpt-engineer-app[bot] <159125892+gpt-engineer-app[bot]@users.noreply.github.com>
+Date:   Sat Jul 19 10:59:33 2025 +0000
+
+    Add email notifications to buttons
+    
+    Send notifications to lionakimov797@gmail.com when the "Записаться на курс" buttons are clicked.
+
+[33mcommit f9a1c1e7730b8e8593dbf34868ec7b73ddf47ee7[m
+Author: gpt-engineer-app[bot] <159125892+gpt-engineer-app[bot]@users.noreply.github.com>
+Date:   Sat Jul 19 10:37:40 2025 +0000
+
+    Add landing page content
+    
+    Implement content for the QA Academia landing page.
+
+[33mcommit 03ad4d860e0a91ab8823b545efba4759b161af5b[m
+Author: gpt-engineer-app[bot] <159125892+gpt-engineer-app[bot]@users.noreply.github.com>
+Date:   Sat Jul 19 10:32:42 2025 +0000
+
+    Use tech stack vite_react_shadcn_ts
